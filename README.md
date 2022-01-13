@@ -1,2 +1,2 @@
-# sort-a-list
- 🔂Sort any list with this python project
+## Sort a List
+ 🔂 Sort any list with this python project
